@@ -1,0 +1,11 @@
+{
+    "require": {
+        "zendframework/zendframework1": "1.12.*@dev"
+    },
+    "authors": [
+        {
+            "name": "youssef",
+            "email": "alhoujeiri@gmail.com"
+        }
+    ]
+}
